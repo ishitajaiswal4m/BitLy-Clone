@@ -1,0 +1,104 @@
+body{
+	margin:0;
+	padding:0;
+}
+.navbar{
+	background-color: white;
+	box-shadow: 0 3px 5px #efefef
+}
+.icon_img{
+	height:70px;
+	width: 95px;
+}
+h1{
+	color: #252628;
+    font-family: "ProximaNova ExtraBold","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 800;
+    font-size: 50px;
+    padding-top: 50px;
+    margin-top:30px; 
+    opacity:0.9;
+
+}
+.header{
+    height : 520px;
+    background-image: url('illo-desktop-1440x651-1 (1).jpg');
+    background-size: cover;
+}
+ .header h5{
+	max-width: 800px;
+	opacity:0.6;
+}
+.jumbotron{
+	    background-color: #0b1736;
+}
+.form_btn{
+	width:300px;
+	height:60px;
+	background: #1b3987;
+}
+.form-control{
+	height:60px;
+	
+}
+#scroll{
+	text-align: center;
+}
+h3{
+	color: #252628;
+    font-family: "ProximaNova ExtraBold","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 800;
+    opacity:0.99;
+}
+.mid{
+	color: #56575b;
+    font-family: "ProximaNovaRegular","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight:normal;
+    font-size: 20px;
+}
+.grid_img{
+	object-fit: cover;
+	height:200px;
+	width: 300px;
+}
+.hed5{
+	font-weight: 750;
+}
+.midbtn{
+	width:400px;
+}
+.lowbtn{
+	margin-left: 600px;
+}
+.para{
+	font-family: 'Cormorant Garamond', serif;
+	font-weight:600;
+}
+.button-secondary{
+	background-color: rgb(237, 242, 254);
+    color: #2a5bd7;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+.str_btn{
+	background: #edf2fe;
+	color:#2a5bd7;
+	border-width: 2px;
+}
+.brand_logo{
+	margin: 4px 6px 4px 6px;
+	opacity:0.9;
+}
+.footer{
+	float:left;
+	margin: 0px 30px 0px 30px;
+	font-family: 'Poppins', sans-serif;
+	font-size: 15px;
+	font-weight: 550;
+}
+.foot{
+	font-size: 20px;
+	text-decoration: bold;
+}
